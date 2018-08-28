@@ -1,0 +1,932 @@
+{
+    "statuses": [
+        {
+            "created_at": "Sun Feb 25 18:11:01 +0000 2018",
+            "id": 967824267948773377,
+            "id_str": "967824267948773377",
+            "text": "From pilot to astronaut, Robert H. Lawrence was the first African-American to be selected as an astronaut by any na\u2026 https://t.co/FjPEWnh804",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/FjPEWnh804",
+                        "expanded_url": "https://twitter.com/i/web/status/967824267948773377",
+                        "display_url": "twitter.com/i/web/status/9\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "result_type": "popular",
+                "iso_language_code": "en"
+            },
+            "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 11348282,
+                "id_str": "11348282",
+                "name": "NASA",
+                "screen_name": "NASA",
+                "location": "",
+                "description": "Explore the universe and discover our home planet with @NASA. We usually post in EST (UTC-5)",
+                "url": "https://t.co/TcEE6NS8nD",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/TcEE6NS8nD",
+                                "expanded_url": "http://www.nasa.gov",
+                                "display_url": "nasa.gov",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 28605561,
+                "friends_count": 270,
+                "listed_count": 90405,
+                "created_at": "Wed Dec 19 20:20:32 +0000 2007",
+                "favourites_count": 2960,
+                "utc_offset": -18000,
+                "time_zone": "Eastern Time (US & Canada)",
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 50713,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590922434682880000/3byPYvqe.jpg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590922434682880000/3byPYvqe.jpg",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/188302352/nasalogo_twitter_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/188302352/nasalogo_twitter_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/11348282/1518798395",
+                "profile_link_color": "205BA7",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "F3F2F2",
+                "profile_text_color": "000000",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "regular"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 988,
+            "favorite_count": 3875,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Aug 09 10:27:14 +0000 2018",
+            "id": 1027501551659757568,
+            "id_str": "1027501551659757568",
+            "full_text": "This is the magnificent Storforsen in the north of Sweden. https://t.co/oKhirQKsEI",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                58
+            ],
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1027501205839388672,
+                        "id_str": "1027501205839388672",
+                        "indices": [
+                            59,
+                            82
+                        ],
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1027501205839388672/pu/img/WwK1nANoUrK9Vn3S.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1027501205839388672/pu/img/WwK1nANoUrK9Vn3S.jpg",
+                        "url": "https://t.co/oKhirQKsEI",
+                        "display_url": "pic.twitter.com/oKhirQKsEI",
+                        "expanded_url": "https://twitter.com/peterkz_swe/status/1027501551659757568/video/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1280,
+                                "h": 720,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1027501205839388672,
+                        "id_str": "1027501205839388672",
+                        "indices": [
+                            59,
+                            82
+                        ],
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1027501205839388672/pu/img/WwK1nANoUrK9Vn3S.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1027501205839388672/pu/img/WwK1nANoUrK9Vn3S.jpg",
+                        "url": "https://t.co/oKhirQKsEI",
+                        "display_url": "pic.twitter.com/oKhirQKsEI",
+                        "expanded_url": "https://twitter.com/peterkz_swe/status/1027501551659757568/video/1",
+                        "type": "video",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1280,
+                                "h": 720,
+                                "resize": "fit"
+                            }
+                        },
+                        "video_info": {
+                            "aspect_ratio": [
+                                16,
+                                9
+                            ],
+                            "duration_millis": 7033,
+                            "variants": [
+                                {
+                                    "bitrate": 256000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1027501205839388672/pu/vid/320x180/VcOlWOI05uzHBBlK.mp4?tag=5"
+                                },
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/ext_tw_video/1027501205839388672/pu/pl/uWB00m_mnRMF8-5J.m3u8?tag=5"
+                                },
+                                {
+                                    "bitrate": 2176000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1027501205839388672/pu/vid/1280x720/wb-f8fd5Ckec3Tq9.mp4?tag=5"
+                                },
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/1027501205839388672/pu/vid/640x360/VJhFew1cu8MqTu41.mp4?tag=5"
+                                }
+                            ]
+                        },
+                        "additional_media_info": {
+                            "monetizable": false
+                        }
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 8769542,
+                "id_str": "8769542",
+                "name": "Peter K",
+                "screen_name": "peterkz_swe",
+                "location": "Stockholm, Sweden",
+                "description": "Digital strategy at Swedish Association of Local Authorities and Regions. Ex CIO Ntl Library. Volunteer Swe teacher. I like opengov, users, and a web of data",
+                "url": "https://t.co/KYrErdKmRr",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/KYrErdKmRr",
+                                "expanded_url": "https://www.peterkrantz.com",
+                                "display_url": "peterkrantz.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 3560,
+                "friends_count": 3131,
+                "listed_count": 234,
+                "created_at": "Sun Sep 09 18:39:04 +0000 2007",
+                "favourites_count": 6747,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 16750,
+                "lang": "sv",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C6E2EE",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/781206851677515776/MWNHQro4_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/781206851677515776/MWNHQro4_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/8769542/1471262887",
+                "profile_link_color": "1F98C7",
+                "profile_sidebar_border_color": "C6E2EE",
+                "profile_sidebar_fill_color": "DAECF4",
+                "profile_text_color": "000000",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 5,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Thu Aug 09 10:13:58 +0000 2018",
+            "id": 1027498211861299200,
+            "id_str": "1027498211861299200",
+            "full_text": "Hunnebostrand, Sweden. A great place if you like Bohusl\u00e4n. #sweden https://t.co/jvDGU5CpQd",
+            "truncated": false,
+            "display_text_range": [
+                0,
+                66
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "sweden",
+                        "indices": [
+                            59,
+                            66
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1027498026942783488,
+                        "id_str": "1027498026942783488",
+                        "indices": [
+                            67,
+                            90
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DkJoAvdW4AAZ5pz.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DkJoAvdW4AAZ5pz.jpg",
+                        "url": "https://t.co/jvDGU5CpQd",
+                        "display_url": "pic.twitter.com/jvDGU5CpQd",
+                        "expanded_url": "https://twitter.com/peterkz_swe/status/1027498211861299200/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 680,
+                                "h": 510,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1536,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 900,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1027498026942783488,
+                        "id_str": "1027498026942783488",
+                        "indices": [
+                            67,
+                            90
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DkJoAvdW4AAZ5pz.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DkJoAvdW4AAZ5pz.jpg",
+                        "url": "https://t.co/jvDGU5CpQd",
+                        "display_url": "pic.twitter.com/jvDGU5CpQd",
+                        "expanded_url": "https://twitter.com/peterkz_swe/status/1027498211861299200/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 680,
+                                "h": 510,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 2048,
+                                "h": 1536,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 900,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 8769542,
+                "id_str": "8769542",
+                "name": "Peter K",
+                "screen_name": "peterkz_swe",
+                "location": "Stockholm, Sweden",
+                "description": "Digital strategy at Swedish Association of Local Authorities and Regions. Ex CIO Ntl Library. Volunteer Swe teacher. I like opengov, users, and a web of data",
+                "url": "https://t.co/KYrErdKmRr",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/KYrErdKmRr",
+                                "expanded_url": "https://www.peterkrantz.com",
+                                "display_url": "peterkrantz.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 3560,
+                "friends_count": 3131,
+                "listed_count": 234,
+                "created_at": "Sun Sep 09 18:39:04 +0000 2007",
+                "favourites_count": 6747,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 16750,
+                "lang": "sv",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C6E2EE",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/781206851677515776/MWNHQro4_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/781206851677515776/MWNHQro4_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/8769542/1471262887",
+                "profile_link_color": "1F98C7",
+                "profile_sidebar_border_color": "C6E2EE",
+                "profile_sidebar_fill_color": "DAECF4",
+                "profile_text_color": "000000",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "sv"
+        },
+        {
+            "created_at": "Sun Feb 25 19:31:07 +0000 2018",
+            "id": 967844427480911872,
+            "id_str": "967844427480911872",
+            "text": "A magnetic power struggle of galactic proportions - new research highlights the role of the Sun's magnetic landscap\u2026 https://t.co/29dZgga54m",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/29dZgga54m",
+                        "expanded_url": "https://twitter.com/i/web/status/967844427480911872",
+                        "display_url": "twitter.com/i/web/status/9\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "result_type": "popular",
+                "iso_language_code": "en"
+            },
+            "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 11348282,
+                "id_str": "11348282",
+                "name": "NASA",
+                "screen_name": "NASA",
+                "location": "",
+                "description": "Explore the universe and discover our home planet with @NASA. We usually post in EST (UTC-5)",
+                "url": "https://t.co/TcEE6NS8nD",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/TcEE6NS8nD",
+                                "expanded_url": "http://www.nasa.gov",
+                                "display_url": "nasa.gov",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 28605561,
+                "friends_count": 270,
+                "listed_count": 90405,
+                "created_at": "Wed Dec 19 20:20:32 +0000 2007",
+                "favourites_count": 2960,
+                "utc_offset": -18000,
+                "time_zone": "Eastern Time (US & Canada)",
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 50713,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590922434682880000/3byPYvqe.jpg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590922434682880000/3byPYvqe.jpg",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/188302352/nasalogo_twitter_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/188302352/nasalogo_twitter_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/11348282/1518798395",
+                "profile_link_color": "205BA7",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "F3F2F2",
+                "profile_text_color": "000000",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "regular"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 2654,
+            "favorite_count": 7962,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Mon Feb 26 19:21:43 +0000 2018",
+            "id": 968204446625869827,
+            "id_str": "968204446625869827",
+            "text": "Someone's got to be first. In space, the first explorers beyond Mars were Pioneers 10 and 11, twin robots who chart\u2026 https://t.co/SUX30Y45mr",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/SUX30Y45mr",
+                        "expanded_url": "https://twitter.com/i/web/status/968204446625869827",
+                        "display_url": "twitter.com/i/web/status/9\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "result_type": "popular",
+                "iso_language_code": "en"
+            },
+            "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 11348282,
+                "id_str": "11348282",
+                "name": "NASA",
+                "screen_name": "NASA",
+                "location": "",
+                "description": "Explore the universe and discover our home planet with @NASA. We usually post in EST (UTC-5)",
+                "url": "https://t.co/TcEE6NS8nD",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/TcEE6NS8nD",
+                                "expanded_url": "http://www.nasa.gov",
+                                "display_url": "nasa.gov",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 28605561,
+                "friends_count": 270,
+                "listed_count": 90405,
+                "created_at": "Wed Dec 19 20:20:32 +0000 2007",
+                "favourites_count": 2960,
+                "utc_offset": -18000,
+                "time_zone": "Eastern Time (US & Canada)",
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 50713,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/590922434682880000/3byPYvqe.jpg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/590922434682880000/3byPYvqe.jpg",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/188302352/nasalogo_twitter_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/188302352/nasalogo_twitter_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/11348282/1518798395",
+                "profile_link_color": "205BA7",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "F3F2F2",
+                "profile_text_color": "000000",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "regular"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 729,
+            "favorite_count": 2777,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Mon Feb 26 06:42:50 +0000 2018",
+            "id": 968013469743288321,
+            "id_str": "968013469743288321",
+            "text": "\u5b87\u5b99\u30b9\u30c6\u30fc\u30b7\u30e7\u30f3\u3067\u3082\u3001\u65e5\u672c\u30689\u6642\u9593\u306e\u6642\u5dee\u3067\u6708\u66dc\u65e5\u304c\u59cb\u307e\u308a\u307e\u3057\u305f\u3002n\u4eca\u9031\u306f6\u4eba\u304b\u30893\u4eba\u306b\u30af\u30eb\u30fc\u306e\u30b5\u30a4\u30ba\u30c0\u30a6\u30f3\u304c\u3042\u308a\u307e\u3059\u304c\u3001\u3057\u3063\u304b\u308a\u3068\u4efb\u3055\u308c\u3066\u3044\u308b\u30bf\u30b9\u30af\u3092\u3053\u306a\u3057\u305f\u3044\u3068\u601d\u3044\u307e\u3059\u3002nn\u5199\u771f\u306f\u3001NASA\u306e\u5b9f\u9a13\u65bd\u8a2d\u300c\u30c7\u30a3\u30b9\u30c6\u30a3\u30cb\u30fc\u300d\u306e\u30b0\u30ed\u30fc\u30d6\u2026 https://t.co/2CYoPV6Aqx",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/2CYoPV6Aqx",
+                        "expanded_url": "https://twitter.com/i/web/status/968013469743288321",
+                        "display_url": "twitter.com/i/web/status/9\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "result_type": "popular",
+                "iso_language_code": "ja"
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 842625693733203968,
+                "id_str": "842625693733203968",
+                "name": "\u91d1\u4e95 \u5ba3\u8302",
+                "screen_name": "Astro_Kanai",
+                "location": "",
+                "description": "\u5b87\u5b99\u98db\u884c\u58eb\u30022017\u5e7412\u670819\u65e5\u304b\u3089\u56fd\u969b\u5b87\u5b99\u30b9\u30c6\u30fc\u30b7\u30e7\u30f3\u306b\u9577\u671f\u6ede\u5728\u4e2d\u3002 \u5fdc\u63f4\u3044\u305f\u3060\u3044\u3066\u3044\u308b\u30d5\u30a9\u30ed\u30ef\u30fc\u306e\u307f\u306a\u3055\u307e\u3068\u4e00\u7dd2\u306b\u3001\u5b87\u5b99\u6ede\u5728\u3092\u697d\u3057\u307f\u305f\u3044\u3068\u601d\u3044\u307e\u3059\uff01",
+                "url": "https://t.co/rWU6cxY9iL",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/rWU6cxY9iL",
+                                "expanded_url": "https://ameblo.jp/astro-kanai/",
+                                "display_url": "ameblo.jp/astro-kanai/",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 51512,
+                "friends_count": 59,
+                "listed_count": 655,
+                "created_at": "Fri Mar 17 06:36:35 +0000 2017",
+                "favourites_count": 7075,
+                "utc_offset": 32400,
+                "time_zone": "Tokyo",
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 1035,
+                "lang": "ja",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/879071738625232901/u0nlrr4Y_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/879071738625232901/u0nlrr4Y_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/842625693733203968/1492509582",
+                "profile_link_color": "E81C4F",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 226,
+            "favorite_count": 1356,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ja"
+        },
+        {
+            "created_at": "Mon Feb 26 01:07:05 +0000 2018",
+            "id": 967928974960545793,
+            "id_str": "967928974960545793",
+            "text": "Congratulations to #Olympics athletes who won gold! Neutron stars like the one at the heart of the Crab Nebula may\u2026 https://t.co/vz4SnPupe2",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Olympics",
+                        "indices": [
+                            19,
+                            28
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/vz4SnPupe2",
+                        "expanded_url": "https://twitter.com/i/web/status/967928974960545793",
+                        "display_url": "twitter.com/i/web/status/9\u2026",
+                        "indices": [
+                            116,
+                            139
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "result_type": "popular",
+                "iso_language_code": "en"
+            },
+            "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 19802879,
+                "id_str": "19802879",
+                "name": "NASA JPL",
+                "screen_name": "NASAJPL",
+                "location": "Pasadena, Calif.",
+                "description": "NASA Jet Propulsion Laboratory manages many of NASA's robotic missions exploring Earth, the solar system and our universe. Tweets from JPL's News Office.",
+                "url": "http://t.co/gcM9d1YLUB",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/gcM9d1YLUB",
+                                "expanded_url": "http://www.jpl.nasa.gov",
+                                "display_url": "jpl.nasa.gov",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 2566921,
+                "friends_count": 379,
+                "listed_count": 15065,
+                "created_at": "Sat Jan 31 03:19:43 +0000 2009",
+                "favourites_count": 1281,
+                "utc_offset": -32400,
+                "time_zone": "Alaska",
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 6328,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "0B090B",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/8479565/twitter_jpl_bkg.009.jpg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/8479565/twitter_jpl_bkg.009.jpg",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/2305452633/lg0hov3l8g4msxbdwv48_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/2305452633/lg0hov3l8g4msxbdwv48_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/19802879/1398298134",
+                "profile_link_color": "0D1787",
+                "profile_sidebar_border_color": "100F0E",
+                "profile_sidebar_fill_color": "74A6CD",
+                "profile_text_color": "0C0C0D",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 325,
+            "favorite_count": 1280,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        }
+    ],
+    "search_metadata": {
+        "completed_in": 0.057,
+        "max_id": 0,
+        "max_id_str": "0",
+        "next_results": "?max_id=967574182522482687&q=nasa&include_entities=1&result_type=popular",
+        "query": "nasa",
+        "count": 3,
+        "since_id": 0,
+        "since_id_str": "0"
+    }
+}
